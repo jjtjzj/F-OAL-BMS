@@ -1,7 +1,6 @@
 # FOL-BMS
-Does Class-Balanced Sampling Help Forward-Only OCIL? An Empirical Study with F-OAL under Long-Tail Streams
 
-# Why Class-Balancing Fails for F-OAL: The Bottleneck of Fixed Representations in Online Learning
+# Does Class-Balanced Sampling Help Forward-Only OCIL? An Empirical Study with F-OAL under Long-Tail Streams
 
 ## Overview
 
