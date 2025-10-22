@@ -86,7 +86,7 @@ This research demonstrates a critical limitation of the F-OAL framework: its per
 
 ```bash
 # Clone the repository
-git clone [your-repo-link]
+git clone https://github.com/jjtjzj/FOL-BMS
 cd FOL-BMS
 
 # Install dependencies
