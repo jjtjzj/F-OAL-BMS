@@ -1,4 +1,4 @@
-# FOL-BMS
+# F-OAL-BMS
 
 # Does Class-Balanced Sampling Help Forward-Only OCIL? An Empirical Study with F-OAL under Long-Tail Streams
 
@@ -86,8 +86,8 @@ This research demonstrates a critical limitation of the F-OAL framework: its per
 
 ```bash
 # Clone the repository
-git clone https://github.com/jjtjzj/FOL-BMS
-cd FOL-BMS
+git clone https://github.com/jjtjzj/F-OAL-BMS
+cd F-OAL-BMS
 
 # Install dependencies
 pip install -r requirements.txt
